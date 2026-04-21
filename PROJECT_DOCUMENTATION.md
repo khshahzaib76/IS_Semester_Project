@@ -1,5 +1,9 @@
 # Secure Logging System with Tamper Detection
 
+**GitHub repository:** [https://github.com/khshahzaib76/IS_Semester_Project](https://github.com/khshahzaib76/IS_Semester_Project)
+
+---
+
 ## 1) Project Overview
 
 This project is an Information Security mini-system that demonstrates **log integrity protection** using **SHA-256 hash chaining**.
